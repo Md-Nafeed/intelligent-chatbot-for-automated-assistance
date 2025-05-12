@@ -41,5 +41,5 @@ This project addresses these challenges by introducing an intelligent chatbot th
 Clone the repository:
 
 ```bash
-git clone https://github.com/mudassir182005/phase-2-customer-support-chatbot.git
+git clone https://github.com/Md-Nafeed/intelligent-chatbot-for-automated-assistance
 cd phase-2-customer-support-chatbot
